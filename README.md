@@ -1,7 +1,13 @@
 ## 🌸 幽霊Hanako – A Ghostly BetterDiscord Theme 👻  
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/yurehito/hanako-theme/blob/main/LICENSE)
-[![Discord](https://img.shields.io/badge/Join-Server-blue?logo=discord)](https://discord.gg/v7VXtqUmjf)
+<p align="center">
+  <a href="https://github.com/yurehito/hanako-theme/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License">
+  </a>
+  <a href="https://discord.gg/v7VXtqUmjf">
+    <img src="https://img.shields.io/badge/Support-Server-5865F2?logo=discord&logoColor=white" alt="Discord Support Server">
+  </a>
+</p>
 
 
 ![Preview](https://github.com/yurehito/hanako-theme/blob/8f117d462d82ae0af2ac3f4c32382d131f593de6/%E5%B9%BD%E9%9C%8AHanako%20preview%20image.png)  
