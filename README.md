@@ -27,6 +27,9 @@ Click [here](https://raw.githubusercontent.com/yurehito/hanako-theme/main/hanako
 3. Place the **hanako-theme.css** file inside the folder.  
 4. Enable the theme in the BetterDiscord **Themes tab**.  
 
+### **3️⃣ Need Help ?**
+Join the [support server](https://discord.gg/v7VXtqUmjf)
+
 ---
 
 ## 🎨 Customization  
