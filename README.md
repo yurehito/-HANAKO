@@ -1,18 +1,7 @@
-<p align="center">
-  <img src="https://github.com/yurehito/hanako-theme/blob/main/%E5%B9%BD%E9%9C%8AHanako%20preview%20image.png" width="500" alt="Hanako Theme">
-</p>
+# 🌸 幽霊Hanako – A Ghostly BetterDiscord Theme 👻  
 
-<h1 align="center">🌸 幽霊Hanako – A Ghostly BetterDiscord Theme 👻</h1>
-
-<p align="center">
-  <a href="https://github.com/yurehito/hanako-theme/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License">
-  </a>
-  <a href="https://discord.gg/v7VXtqUmjf">
-    <img src="https://img.shields.io/badge/Support-Server-5865F2?logo=discord&logoColor=white" alt="Discord Support Server">
-  </a>
-</p>
-
+**Immerse your Discord experience in the supernatural world of *Toilet-Bound Hanako-kun*!**  
+幽霊Hanako (*Yūrei Hanako*) combines a **frosted glass aesthetic** with a **mystical, ghostly** theme, inspired by Hanako and the spiritual world.  
 
 ![Preview](https://github.com/yurehito/hanako-theme/blob/8f117d462d82ae0af2ac3f4c32382d131f593de6/%E5%B9%BD%E9%9C%8AHanako%20preview%20image.png)  
 
@@ -46,10 +35,9 @@ Join the [support server](https://discord.gg/v7VXtqUmjf)
 ## 🎨 Customization  
 You can modify the following CSS variables inside the theme file:  
 
-```css
+css
 --background-image: url('https://i.imgur.com/FJePiq6.png'); /* Change background */
 --home-button-image: url('https://raw.githubusercontent.com/yurehito/hanako-theme/main/discord.svg'); /* Custom Discord icon */
 --gradient-primary: 106, 44, 112; /* Adjust color */
 --gradient-secondary: 166, 61, 64;
 --link-colour: #FF9E3D;
-
