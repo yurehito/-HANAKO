@@ -3,7 +3,7 @@
 **Immerse your Discord experience in the supernatural world of *Toilet-Bound Hanako-kun*!**  
 幽霊Hanako (*Yūrei Hanako*) combines a **frosted glass aesthetic** with a **mystical, ghostly** theme, inspired by Hanako and the spiritual world.  
 
-![Preview](https://github.com/yurehito/animations/blob/1d3c4637c685e3680af5e71fbe35cee27ce2d836/Screenshot%202025-03-15%20120502.png)  
+![Preview](https://github.com/yurehito/hanako-theme/blob/8f117d462d82ae0af2ac3f4c32382d131f593de6/%E5%B9%BD%E9%9C%8AHanako%20preview%20image.png)  
 
 ---
 
