@@ -22,7 +22,7 @@
 Click [here](https://raw.githubusercontent.com/yurehito/hanako-theme/main/hanako-theme.css) to download the theme file.  
 
 ### **2️⃣ Apply in BetterDiscord**  
-1. Open Discord and go to **Settings** → **BetterDiscord** → **Themes**.  
+1. Open Discord and go to **Settings** → **BetterDiscord/Vencord** → **Themes**.  
 2. Click **"Open Theme Folder"**.  
 3. Place the **hanako-theme.css** file inside the folder.  
 4. Enable the theme in the BetterDiscord **Themes tab**.  
