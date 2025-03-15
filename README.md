@@ -1,4 +1,4 @@
-# 🌸 幽霊Hanako (Yūrei Hanako) – A Ghostly BetterDiscord Theme 👻  
+# 🌸 幽霊Hanako – A Ghostly BetterDiscord Theme 👻  
 
 **Immerse your Discord experience in the supernatural world of *Toilet-Bound Hanako-kun*!**  
 幽霊Hanako (*Yūrei Hanako*) combines a **frosted glass aesthetic** with a **mystical, ghostly** theme, inspired by Hanako and the spiritual world.  
