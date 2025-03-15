@@ -35,7 +35,7 @@ Join the [support server](https://discord.gg/v7VXtqUmjf)
 ## 🎨 Customization  
 You can modify the following CSS variables inside the theme file:  
 
-css
+```css
 --background-image: url('https://i.imgur.com/FJePiq6.png'); /* Change background */
 --home-button-image: url('https://raw.githubusercontent.com/yurehito/hanako-theme/main/discord.svg'); /* Custom Discord icon */
 --gradient-primary: 106, 44, 112; /* Adjust color */
