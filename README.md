@@ -1,4 +1,8 @@
-## 🌸 幽霊Hanako – A Ghostly BetterDiscord Theme 👻  
+<p align="center">
+  <img src="https://github.com/yurehito/hanako-theme/blob/main/%E5%B9%BD%E9%9C%8AHanako%20preview%20image.png" width="500" alt="Hanako Theme">
+</p>
+
+<h1 align="center">🌸 幽霊Hanako – A Ghostly BetterDiscord Theme 👻</h1>
 
 <p align="center">
   <a href="https://github.com/yurehito/hanako-theme/blob/main/LICENSE">
