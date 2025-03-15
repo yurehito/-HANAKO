@@ -23,7 +23,7 @@
   --overlay-image-blur: 5px;
   --overlay-image-size: cover;
   --overlay-image-position: center;
-  --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
+  --home-button-image: url('https://raw.githubusercontent.com/yurehito/hanako-theme/main/discord.svg');
   --home-button-size: cover;
   --home-button-position: center;
   --serverlist-brightness: 0.8;
